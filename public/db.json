@@ -5,7 +5,8 @@
       "price" : 3.99,
       "shelflocation ": 2,
       "Exp_date" : "10-12-2023",
-      "Quantity_Available" : 5
+      "In_stock" : true,
+      "id":1
 
     },
     {
@@ -13,7 +14,8 @@
       "price" : 2.49,
       "shelflocation ": 1,
       "Exp_date" : "05-07-2023",
-      "Quantity_Available" : 5
+      "In_stock" : true,
+      "id":2
       
     },
     {
@@ -21,7 +23,8 @@
       "price" : 4.99,
       "shelflocation ": 5,
       "Exp_date" : "12-07-2024",
-      "Quantity_Available" : 7
+      "In_stock" : true,
+      "id":3
     
   },
     {
@@ -29,7 +32,8 @@
       "price" : 7.99,
       "shelflocation ": 5,
       "Exp_date" : "12-12-2023",
-      "Quantity_Available" : 0
+      "In_stock" : false,
+      "id":4
   
      
     },
@@ -38,7 +42,8 @@
       "price" : 3.49,
       "shelflocation ": 1,
       "Exp_date" : "10-09-2023",
-      "Quantity_Available" : 0
+      "In_stock" : false,
+      "id":5
  
   },
     {
@@ -46,7 +51,8 @@
       "price" : 8.99,
       "shelflocation ": 2,
       "Exp_date" : "09-09-2023",
-      "Quantity_Available" : 8
+      "In_stock" : true,
+      "id":6
      
       
     }
